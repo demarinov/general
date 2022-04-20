@@ -1,0 +1,3 @@
+Websockets repo contains different experimental projects like clients, servers with different type of communication.
+
+It may have clients retrieving crypto data from Kraken API service, manipulating it or something else ...
