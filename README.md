@@ -4,6 +4,6 @@ This repo contains experimental projects like [clients](https://www.baeldung.com
 
 It may have clients retrieving crypto data from Kraken API service, manipulating it or something else ...
 
-<p align="center">
+<p>
   <a href="https://github.com/demarinov/">DM</a>
 </p>
